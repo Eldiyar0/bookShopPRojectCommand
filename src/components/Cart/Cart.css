@@ -1,0 +1,187 @@
+
+#cart {
+  font-family: sans-serif;
+}
+/* .container {
+} */
+.cart h1 {
+  font-family: Public Sans;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -1.5px;
+  text-align: left;
+}
+.cart h4 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: left;
+  color: #19272e;
+}
+.cart span {
+  font-family: Public Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: left;
+  color: #818eea;
+}
+.horse {
+  display: flex;
+  gap: 50px;
+}
+.shopping {
+  margin-top: 40px;
+}
+.t1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  gap: 18px;
+}
+.t1 h2 {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.horse button {
+  margin-top: -210px;
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: -0.4000000059604645px;
+  text-align: left;
+  color: #ff0000;
+}
+.t1 h5 {
+  font-family: Public Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.t2 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.t2 h3 {
+  font-family: Public Sans;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #19272e;
+}
+.t2 h2 {
+  font-family: Public Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #818eea;
+}
+
+.border {
+  margin-top: 15px;
+  width: 600px;
+  height: Fixed (241px);
+  padding: 0px, 0px, 32px, 0px;
+  border: 0px, 0px, 1px, 0px;
+  gap: 32px;
+  border-bottom: 1px solid #19272e4d;
+}
+
+/* section */
+
+
+
+.section {
+  margin-top: 110px;
+  margin-left: 80px;
+}
+.section h3 {
+  font-family: Public Sans;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.550000011920929px;
+  text-align: left;
+}
+.all {
+  margin-top: 60px;
+}
+.Shopping {
+  display: flex;
+  justify-content: space-between;
+}
+.Shopping p {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+}
+.pay {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.pay p {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+}
+.line {
+  width: 402px;
+  border: 1px;
+  border: 1px solid #19272e;
+  margin-top: 30px;
+}
+.tot {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.tot p {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+}
+.tot h5 {
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: right;
+  color: #818eea;
+}
+.section button {
+  margin-top: 60px;
+  font-size: 18px;
+  width: 397px;
+  height: 50px;
+  border-radius: 8px;
+  background: #818eea;
+  color: #fff;
+}

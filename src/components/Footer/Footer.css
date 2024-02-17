@@ -1,0 +1,73 @@
+#footer {
+  margin-top: 10vh;
+  background: rgba(129, 142, 234, 1);
+  padding: 70px 0 50px 0;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-1 h1 {
+  font-family: Public Sans;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -1.5px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer-1 p {
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  margin: 20px 0;
+  color: rgba(255, 255, 255, 1);
+}
+.footer-in-h3 {
+  display: flex;
+  align-items: center;
+  border: 1px solid white;
+  padding: 10px 10px;
+  border-radius: 6px;
+  justify-content: space-between;
+}
+
+.footer-in-h3 h3 {
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+
+  color: rgba(255, 255, 255, 1);
+}
+.footer-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.footer-2 h3 {
+  color: rgba(255, 255, 255, 1);
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.4000000059604645px;
+  
+}
+
+.footer-2 h5 {
+    margin-top: -0.4pc;
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: -0.20000000298023224px;
+  color: rgba(255, 255, 255, 1);
+}

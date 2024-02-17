@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+#footer {
+  margin-top: 100vh;
+}
+
+input {
+  border: none;
+  background: none;
+  outline: none;
+}
+input::placeholder {
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+.logo{
+  display: flex;
+  gap: 30px;
+  align-items: start;
+  justify-content: center;
+}
+
+.nn{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+button{
+  background: none;
+  border: none;
+}
+
+

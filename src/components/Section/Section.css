@@ -1,0 +1,182 @@
+#main {
+  background: url("../../img/Main\ image.png") no-repeat center/cover;
+  height: 70vh;
+  width: 100%;
+}
+
+.main h2 {
+  padding-top: 16pc;
+  text-align: center;
+  font-family: Public Sans;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+}
+.main {
+  text-align: center;
+}
+
+.main p {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  margin-top: 0.3pc;
+  color: rgba(25, 39, 46, 1);
+}
+
+/* cenres  */
+
+#cenres {
+  margin-top: 5pc;
+}
+
+.cenres-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cenres-main h3 {
+  font-family: Public Sans;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(25, 39, 46, 1);
+}
+.cenres-main h5 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(129, 142, 234, 1);
+}
+
+.cenres-blocks {
+  margin-top: 5pc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cenres-block {
+  background: rgb(241, 241, 241);
+  padding: 24px;
+  border-radius: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* cenres  */
+
+/*books  */
+.books-blocks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 8pc;
+}
+.books_h1 {
+  text-align: center;
+  font-family: Public Sans;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 8pc;
+}
+.books-block h4 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  color: rgba(25, 39, 46, 1);
+  margin: 8px 0;
+}
+/* books  */
+
+/*booksAll  */
+.booksAll-blocks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.booksAll-block h4 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  color: rgba(25, 39, 46, 1);
+  margin: 8px 0;
+}
+.booksAll-main {
+  display: flex;
+  margin-top: 6pc;
+  margin-bottom: 2pc;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.booksAll-main h3 {
+  font-family: Public Sans;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(25, 39, 46, 1);
+}
+.booksAll-main h6 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(129, 142, 234, 1);
+}
+/* booksAll  */
+
+/* About */
+
+.about_h1 {
+  font-family: Public Sans;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 58px;
+  letter-spacing: 0em;
+  margin-top: 10pc;
+  text-align: center;
+  color: rgba(25, 39, 46, 1);
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+}
+
+.about-text p {
+  font-family: Public Sans;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  color: rgba(25, 39, 46, 1);
+}
+
+/* About */

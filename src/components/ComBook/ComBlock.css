@@ -1,0 +1,172 @@
+.allBlooksBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.allBlooksBlock h3 {
+  font-family: Public Sans;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 48px;
+  margin-top: 1pc;
+  letter-spacing: -0.03em;
+  color: rgba(25, 39, 46, 1);
+}
+.allBlooksBlock p {
+  font-family: Public Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.4000000059604645px;
+  color: rgba(25, 39, 46, 1);
+}
+.booksFilter h1 {
+  font-family: Public Sans;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgba(25, 39, 46, 1);
+}
+.booksFilter p {
+  font-family: Public Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.4000000059604645px;
+  text-align: left;
+  color: rgba(25, 39, 46, 1);
+  margin-top: 10px;
+
+}
+
+/* booksFilter */
+.booksFilter-main {
+  display: flex;
+  margin-top: 4pc;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.booksFilter-main h3 {
+  display: flex;
+  gap: 10px;
+  align-items: end;
+}
+
+.booksFilter-main h3 h4 {
+  font-family: Public Sans;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.550000011920929px;
+  color: rgba(25, 39, 46, 1);
+}
+
+.booksFilter-main h3 p {
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.4000000059604645px;
+  color: rgba(129, 142, 234, 1);
+}
+
+.booksFilter-block {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: none;
+
+  border: 1px solid rgba(129, 142, 234, 1);
+  padding: 5px;
+  border-radius: 7px;
+}
+
+.booksFilter-block h3 {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.30000001192092896px;
+  color: rgba(129, 142, 234, 1);
+  opacity: 0, 5;
+}
+.booksFilter-block select {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.30000001192092896px;
+  color: rgba(129, 142, 234, 1);
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.booksFilter_h4 {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: -0.4000000059604645px;
+  margin: 1pc 0 1pc 0;
+}
+
+.blockFilter-main {
+  display: flex;
+  gap: 50px;
+}
+
+.booksFilter2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 900px;
+}
+.booksFilter1-block {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.booksFilter1-block {
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.booksFilter2-block {
+  margin: 20px 0;
+}
+.booksFilter2-block h4 {
+  font-family: Public Sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(25, 39, 46, 1);
+  margin-top: 9px;
+}
+
+.booksFilter2-block h5 {
+  flex-wrap: wrap;
+  font-family: Public Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(25, 39, 46, 1);
+  margin-top: 9px;
+}
+
+/* booksFilter */
